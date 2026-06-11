@@ -23,6 +23,14 @@ Whether you are starting from scratch or looking to solidify your understanding 
 | **08** | Exception Handling | [View on NBViewer](https://nbviewer.org/github/kamrankausher/PYTHON/blob/main/08_exception_handling.ipynb) |
 | **09** | File Handling | [View on NBViewer](https://nbviewer.org/github/kamrankausher/PYTHON/blob/main/09_file_handling.ipynb) |
 | **10** | Object-Oriented Programming (OOP) | [View on NBViewer](https://nbviewer.org/github/kamrankausher/PYTHON/blob/main/10_oops.ipynb) |
+| **11** | Iterators & Generators | [View on NBViewer](https://nbviewer.org/github/kamrankausher/PYTHON/blob/main/11_iterators_and_generators.ipynb) |
+| **12** | Decorators | [View on NBViewer](https://nbviewer.org/github/kamrankausher/PYTHON/blob/main/12_decorators.ipynb) |
+| **13** | Context Managers | [View on NBViewer](https://nbviewer.org/github/kamrankausher/PYTHON/blob/main/13_context_managers.ipynb) |
+| **14** | Concurrency & Parallelism | [View on NBViewer](https://nbviewer.org/github/kamrankausher/PYTHON/blob/main/14_concurrency_and_parallelism.ipynb) |
+| **15** | Regular Expressions (Regex) | [View on NBViewer](https://nbviewer.org/github/kamrankausher/PYTHON/blob/main/15_regular_expressions.ipynb) |
+| **16** | Advanced Built-in Modules | [View on NBViewer](https://nbviewer.org/github/kamrankausher/PYTHON/blob/main/16_advanced_modules.ipynb) |
+| **17** | Typing & Metaprogramming | [View on NBViewer](https://nbviewer.org/github/kamrankausher/PYTHON/blob/main/17_typing_and_metaprogramming.ipynb) |
+| **18** | Performance Tuning & Testing | [View on NBViewer](https://nbviewer.org/github/kamrankausher/PYTHON/blob/main/18_performance_tuning_and_testing.ipynb) |
 
 ---
 
